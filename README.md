@@ -102,19 +102,14 @@ pandas | numpy | scipy | matplotlib
 ## Author
 
 **Smriti Dandin**
-MSc Student, Human-Centred Robotics Lab
+MS Thesis, Human-Centred Robotics Lab
 Indian Institute of Technology Gandhinagar
 
 ---
 
 ## Supervisor
 
-[Your Supervisor's Name]
+Dr. Vineet Vashista
 Human-Centred Robotics Lab, IIT Gandhinagar
 
----
 
-## Contact
-
-[Your institutional email]
-[Your LinkedIn URL]
