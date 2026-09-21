@@ -1,0 +1,13 @@
+*.csv
+*.pdf
+*.xlsx
+*.png
+*.mat
+data/
+results/
+Experiments/
+Results/
+__pycache__/
+*.pyc
+.env
+*.log
